@@ -1,2 +1,1 @@
-console.log("Hello from git");
-console.log("Feature works!!!");
+console.log("Baze work");
